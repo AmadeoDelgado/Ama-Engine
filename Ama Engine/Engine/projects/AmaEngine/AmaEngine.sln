@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AmaEngine", "AmaEngine.vcxproj", "{6FF5F0D4-392B-4D50-93F9-BA986464E129}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DemoApp", "..\..\..\Demo\projects\DemoApp\DemoApp.vcxproj", "{4F5B203C-BDF3-4C5A-B0E1-92736687299D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF5F0D4-392B-4D50-93F9-BA986464E129}.Debug|x64.ActiveCfg = Debug|x64
+		{6FF5F0D4-392B-4D50-93F9-BA986464E129}.Debug|x64.Build.0 = Debug|x64
+		{6FF5F0D4-392B-4D50-93F9-BA986464E129}.Release|x64.ActiveCfg = Debug|x64
+		{6FF5F0D4-392B-4D50-93F9-BA986464E129}.Release|x64.Build.0 = Debug|x64
+		{4F5B203C-BDF3-4C5A-B0E1-92736687299D}.Debug|x64.ActiveCfg = Debug|x64
+		{4F5B203C-BDF3-4C5A-B0E1-92736687299D}.Debug|x64.Build.0 = Debug|x64
+		{4F5B203C-BDF3-4C5A-B0E1-92736687299D}.Release|x64.ActiveCfg = Debug|x64
+		{4F5B203C-BDF3-4C5A-B0E1-92736687299D}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1443D965-5FB2-40C7-B99C-0D9CB266A50A}
+	EndGlobalSection
+EndGlobal

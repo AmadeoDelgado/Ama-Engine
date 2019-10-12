@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="tasks">
+      <UniqueIdentifier>{e5d503a9-177e-4b26-9902-623658092906}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component">
+      <UniqueIdentifier>{90c6f6d2-bacd-493c-ad79-5976b4eb7b49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Component header">
+      <UniqueIdentifier>{c28508f0-7c0e-4e05-9802-dca48fbe5ee9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Component source">
+      <UniqueIdentifier>{21306673-83af-40f5-a519-1d1eb346d94c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\code\headers\Keyboard.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Window.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Sample_Renderer.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Kernel.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Scene.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Renderer_task.hpp">
+      <Filter>tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Task.hpp">
+      <Filter>tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Imput_task.h">
+      <Filter>tasks</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Entity.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Component.hpp">
+      <Filter>Component\Component header</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\code\headers\Mesh_component.hpp">
+      <Filter>Component\Component header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\code\sources\Keyboard.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\sources\Window.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\sources\Sample_Renderer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\sources\Entity.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\sources\Scene.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\sources\Mesh_Component.cpp">
+      <Filter>Component\Component source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\code\sources\Renderer_task.cpp">
+      <Filter>tasks</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿  Entity.cpp
+d:\universidad\4to\motores\test motor 3\amadeo delgado casado g4.3 vdju\practica engine\engine\code\headers\entity.hpp(41): warning C4114: el mismo calificador de tipo se ha utilizado más de una vez
+  Keyboard.cpp
+  Mesh_Component.cpp
+  Renderer_task.cpp
+  Sample_Renderer.cpp
+d:\universidad\4to\motores\test motor 3\amadeo delgado casado g4.3 vdju\practica engine\engine\code\headers\entity.hpp(41): warning C4114: el mismo calificador de tipo se ha utilizado más de una vez
+  Scene.cpp
+d:\universidad\4to\motores\test motor 3\amadeo delgado casado g4.3 vdju\practica engine\engine\code\headers\entity.hpp(41): warning C4114: el mismo calificador de tipo se ha utilizado más de una vez
+  Window.cpp
+  Generando código...
+d:\universidad\4to\motores\test motor 3\amadeo delgado casado g4.3 vdju\practica engine\engine\code\sources\mesh_component.cpp(43): warning C4715: 'engine::MeshComponent::isInArea': no todas las rutas de acceso de control devuelven un valor
+  AmaEngine.vcxproj -> D:\Universidad\4to\Motores\test motor 3\Amadeo Delgado Casado g4.3 VDJU\Practica Engine\Engine\projects\AmaEngine\..\..\binaries\bin\Debug\AmaEngine.lib
